@@ -1,0 +1,6 @@
+[submodule "Algorithm"]
+	path = Algorithm
+	url = https://github.com/atbtm/Algorithm/
+[submodule "test folder"]
+	path = test folder
+	url = https://github.com/atbtm/Algorithm/
